@@ -4,10 +4,11 @@
 
 Build a clean and efficient Power BI data model for supply chain analytics by performing data preprocessing, creating a star schema, and preparing the dataset for business analysis.
 
-## Dataset Source
+## Dataset Access Note
 
-DataCo Smart Supply Chain Dataset
+The dataset has not been included in this repository because of its large file size. To keep the repository lightweight and comply with GitHub's file size recommendations, the official Kaggle dataset link has been provided. Please download the dataset from the link below and use it with the Power BI project.
 
+Dataset Link:
 https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
 ## Data Cleaning and Transformation
