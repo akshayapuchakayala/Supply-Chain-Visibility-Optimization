@@ -93,4 +93,3 @@ A Heat Map is used to analyze late delivery performance across different markets
 This project provides interactive dashboards for monitoring supplier performance and transportation efficiency. It enables better supplier evaluation, transportation analysis, and data-driven decision-making through Power BI.
 
 
-**Supply Chain Visibility & Optimization – Milestone 3**
